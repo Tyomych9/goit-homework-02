@@ -12,13 +12,15 @@ ul {
 }
 
 .wed {
-    font-size: 18px;
-    font-family: "Raleway";
+
+
+    font-family: "Raleway",sans-serif;
     font-weight: 700;
-    color: #4d5ae5;
+    font-size: 18px;
     line-height: 1.17;
     letter-spacing: 0.03;
     text-transform: uppercase;
+    color: #4d5ae5;
    
 
 }
