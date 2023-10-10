@@ -15,10 +15,11 @@ ul {
     font-size: 18px;
     font-family: "Raleway";
     font-weight: 700;
-    color: rgba(77, 90, 229, 1);
+    color: #4d5ae5;
     line-height: 1.17;
-    letter-spacing: 0.03em;
+    letter-spacing: 0.03;
     text-transform: uppercase;
+   
 
 }
 
@@ -26,7 +27,7 @@ ul {
     font-size: 18px;
     font-family: "Raleway";
     font-weight: 700;
-    color: rgba(46, 47, 66, 1);
+    color: #2e2f42 
 }
 
 .navigation-form {
