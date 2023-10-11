@@ -202,6 +202,7 @@ text-transform: capitalize;
     font-family: "Roboto";
     font-weight: 400;
     color: rgba(67, 68, 85, 1);
+    letter-spacing: 0.02em;
     
 }
 
@@ -234,57 +235,15 @@ text-transform: capitalize;
 }
 
 
-.opshen-itemq {
+.opshen-item {
 
     font-size: 20px;
     font-family: "Roboto";
     font-weight: 500;
     color: rgba(46, 47, 66, 1);
-   
+    line-height: 1.2;
+    letter-spacing: 0.02em;
 
-}
-
-
-.opshen-itemw {
-
-    font-size: 20px;
-    font-family: "Roboto";
-    font-weight: 500;
-    color: rgba(46, 47, 66, 1);
-   
-}
-.opshen-iteme{
-
-    font-size: 20px;
-    font-family: "Roboto";
-    font-weight: 500;
-    color: rgba(46, 47, 66, 1);
-    
-}
-
-.opshen-itemr{
-
-    font-size: 20px;
-    font-family: "Roboto";
-    font-weight: 500;
-    color: rgba(46, 47, 66, 1);
-    
-}
-.opshen-itemt{
-
-    font-size: 20px;
-    font-family: "Roboto";
-    font-weight: 500;
-    color: rgba(46, 47, 66, 1);
-   
-}
-.opshen-itemy{
-
-    font-size: 20px;
-    font-family: "Roboto";
-    font-weight: 500;
-    color: rgba(46, 47, 66, 1);
-   
 }
 
 
@@ -294,7 +253,7 @@ text-transform: capitalize;
     font-family: "Roboto";
     font-weight: 400;
     color: rgba(67, 68, 85, 1);
-    
+    letter-spacing: 0.02em;
 
 }
 
