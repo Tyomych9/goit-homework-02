@@ -34,7 +34,10 @@ ul {
     font-size: 18px;
     font-family: "Raleway";
     font-weight: 700;
-    color: #2e2f42 
+    color: #2e2f42;
+    letter-spacing: 0.03;
+
+    
 }
 
 .navigation-form {
@@ -147,22 +150,37 @@ ul {
     
 }
 
+.tim-pipl{
+    background-color: #F4F4FD;
+}
+
 .tim {
 
 font-size: 36px;
 font-family: "Roboto";
 font-weight: 700;
 color: rgba(46, 47, 66, 1);
+line-height: 1.11;
+text-align: center;
+letter-spacing: 0.02em;
+text-transform: capitalize;
+
 
 
 }
 
+.pipl-gais {
+    background-color:#FFFFFF ;
+}
 
 .pipl {
     font-size: 20px;
     font-family: "Roboto";
     font-weight: 500;
     color: rgba(46, 47, 66, 1);
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+
     
 
 }
@@ -301,6 +319,6 @@ letter-spacing:0.02em ;
     font-size: 18px;
     font-family: "Raleway";
     font-weight: 700;
-    
+    letter-spacing:0.03;
     color: rgba(244, 244, 253, 1);
 }
