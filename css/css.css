@@ -25,6 +25,11 @@ ul {
 
 }
 
+.wed:hover,
+.wed:focus {
+    color: #404bbf;
+}
+
 .studio{
     font-size: 18px;
     font-family: "Raleway";
@@ -84,12 +89,16 @@ ul {
     font-family: "Roboto";
     font-weight: 700;
     color: rgba(255, 255, 255, 1);
+    line-height:1.07;
+    text-align: center;
+    letter-spacing: 0.02em;
    
 
 }
 
 .knop {
     background-color: #4D5AE5;
+    cursor: pointer;
    
    
 }
@@ -98,6 +107,7 @@ ul {
 .knop:focus {
     
     background-color: #404BBF;
+    cursor: pointer;
 
 }
 
@@ -106,9 +116,12 @@ ul {
 
     font-size: 16px;
     font-family: "Roboto";
-    font-weight: 500;
-    color: rgba(255, 255, 255, 1);
-   
+    font-weight:500;
+    color: #ffffff;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+    
+
     
 }
 
@@ -118,6 +131,8 @@ ul {
     font-family: "Roboto";
     font-weight: 500;
     color: rgba(46, 47, 66, 1);
+    line-height: 1.2;
+    letter-spacing: 0.02em;
     
 }
 
@@ -128,6 +143,7 @@ ul {
     font-family: "Roboto";
     font-weight: 400;
     color: rgba(67, 68, 85, 1);
+    letter-spacing: 0.02em;
     
 }
 
@@ -181,13 +197,21 @@ color: rgba(46, 47, 66, 1);
     
 }
 
+.sect-port {
+    background-color: #F4F4FD ;
+}
+
+
 .opshen {
 
     font-size: 36px;
     font-family: "Roboto";
     font-weight: 700;
-    color: rgba(46, 47, 66, 1);
-    
+    color: #2e2f42;
+    line-height: 1.11;
+    text-align: center;
+    letter-spacing: 0.02em;
+    text-transform: capitalize;
 
 }
 
